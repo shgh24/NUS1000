@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "nus1000-compliance-check",
+  "private_key_id": "ff85914ee1c620d6e4ee9a164d0e9bd0887c91dc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCyphcZu7zxeS5g\n/7ajMcF1CHXRcTuPD01zePxmrYI1i7MboazU6Pa6XlecMeBRmTB0+4bfv1DRJEz/\nQfCTqBomhgyu6gsNkIvq9mRQhVuHaJTJ3Ji5TeAMMFgKdOdgxPuFYiAQiTtbFuWk\nY6EE8j4hHPqvx3fZVRbHmbFhhWgYndLnnMtz6pqo/qVaz1f7lyE95kGfDqHJMCIp\n7+7D9k9KVh4L2V0ZbBR/mwx8FyPuTuj8oOP9FbbvnOLfR21wv5THK0kD7E+pt3NG\nN7q4hy0bAfESfXm5CDvN5+CP/dJrs+k0SZ9XWqUgQhop9iYYh7vEDGn67tolK16k\nqsrzr/jJAgMBAAECggEALmkCkE9a3vqFx3I2/r9izCYWAYKin+AwVULFg2Eo9gMk\nVRXTwf4BdtoidXPpnBkpYwKi/8aCVsrQ6/Ez8BAYNxDVA63OkEgQaUp4NgjnBc7v\n9F8IF/+4qEH45UKIh3W1B+o9fT5BesEAiIvPXWsXI+AU6gxuQLofsFvnnnebWuVZ\njQmlqhj+37XMlNqI/1ZmO0ebeNKAGM6+Ays5RRKQ6zD/teT09Ljp3oQtL1NX5pvd\njJCL5fIu/i3aoHd7Qb4xnwbqLGF2/f1OIWDDSedxg8EqiONm03EQYEXMXTrKJkZX\nHPOwa/SZGJvqJukcBUiBBQbdGvXXU7aFXbkVRejkRwKBgQDuQqTeUO1/S0jRJYhA\nFckuX4PTXbUVZVe8YnUYEIbK8Pw+V4fWTwdPpgvxN8nWaIKGg3+xFg0sEpggxWfD\nO16T2HeJOM0dFJ0bDRwUSU3X0tYtOTF0Vh1gSd/oRluaY9C2UGNX0N33PwYnwQMF\nIyldOLGU8WX9Yf4WiNl6popkkwKBgQC/8zjEZlVwGZA0LMAZl1baV4L3I5X+05E0\nG7Wft2KV/2uePPFo0CeMIlOLeZUinB+MQo/Gr8JBncF7OQjkFlZYT/iihVn72eHA\n+l7rfljR/01vNXZ1Kxq8Vyr1DAFVJcedzwooZ9XWBBplpoq3yfVjmJiTnfk1g19t\nK12rd2OCswKBgQDpPkqh7L2jOPMO89wfSHSLNiwaFgk46d3q6MPSjBM4xpNZAF1V\nOkZg/Z+BQ+kOQX9N6Ztuo7S/aXCN3FKI+CzNNUNIDVgW2OA35CyR23UeDCNpYCz+\nw3K8mXVdsMrqKD7gy2+FP06cRZFkB3pKZDKRNPf7ZBpA49ZW/x9QB4tBiwKBgHdy\n1N2rTPmwfsNpIbYLLpo7IR3IQFxOrip+H90fUrNDOmZDSHtQJXwYFGNUKtFZ1GwF\nM9GRqFIK6M9Uo8rEd8EHKxN/5opKgSkE5TKo8n7j3/0XiPrK8x1HJU1OxjmFhB4Z\nLBoO28wNy5t8MxDCFfl/iVs7UEzTzvtxpB3C8uLvAoGBAIpFCxBcZ4K+cIQR+WvP\n1QJJUZOhBdpGoYrma8Cy9uBvlUJRy2Ij7EkJz4HVKx77oYHimqJcfe1Qh/hNiB8Z\nthBZYi3wr846e2T5KNgSDQIfcfI/l5E8RsXvUfumLtmuzpzhFIKqhKEjo7bvaHh6\njUVLKjWC7NOeQh/MlfQ7j3Cx\n-----END PRIVATE KEY-----\n",
+  "client_email": "nus1000@nus1000-compliance-check.iam.gserviceaccount.com",
+  "client_id": "103647824049033179015",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nus1000%40nus1000-compliance-check.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
